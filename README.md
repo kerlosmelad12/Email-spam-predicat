@@ -1,1 +1,2 @@
 # Email-spam-predicat
+-I built a model to classify emails as safe or not, achieving an accuracy of 97%. I started by understanding the data and noticed an imbalance, so I addressed it using undersampling. I also filled missing values with the most frequent email. Additionally, I created a function to clean the text by removing stop words, HTML tags, and URLs, as well as standardizing the text format.
